@@ -81,3 +81,9 @@ a {
 .navbar-nav li a:hover {
     color: #AAFF00 !important;
 }
+.avatar {
+    border-radius: 20%;
+    border-color: #FFFF;
+    border-style: solid;
+    border-width: 5px; 
+}
