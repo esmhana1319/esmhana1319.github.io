@@ -45,7 +45,7 @@ a {
 }
 
 .card {
-    color: black;
+    color: #454B1B;
     text-align: left;
 }
 
@@ -54,8 +54,8 @@ a {
 }
 
 .bg-3 {
-    background-color: #000000; /* Black */
-    color: #Bbd086;  /* white */
+    background-color: #454B1B; /* armygreen */
+    color: #Bbd086;  /* pistachio */
 }
 
 .bg-4 {
