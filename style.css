@@ -35,7 +35,7 @@ a {
 }
 
 .bg-1 {
-    background-color: "white";
+    background-color: #Bbd086;
     color: #555555;
 }
 
@@ -55,7 +55,7 @@ a {
 
 .bg-3 {
     background-color: #000000; /* Black */
-    color: #FFFF;  /* white */
+    color: #Bbd086;  /* white */
 }
 
 .bg-4 {
@@ -85,5 +85,5 @@ a {
     border-radius: 20%;
     border-color: #FFFF;
     border-style: solid;
-    border-width: 5px; 
+    border-width: 5px;
 }
