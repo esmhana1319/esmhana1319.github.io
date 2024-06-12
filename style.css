@@ -1,7 +1,15 @@
 html, body {
     height: 100%;
 }
+#img {
+    width: 50%;
+    height: 50%;
+    border-radius: 2%;
+    border-color: #FFFF;
+    border-style: solid;
+    border-width: 5px
 
+}
 body {
     font: 20px Montserrat, sans-serif;
     line-height: 1.8;
@@ -20,14 +28,9 @@ a {
     max-height: 300px;
 }
 
-#fork img{
-    height: 25px;
+#fork {
     margin-bottom: 25px;
     filter: invert(1);
-}
-
-#sep {
-    height: 75px;
 }
 
 .margin {
@@ -35,12 +38,12 @@ a {
 }
 
 .bg-1 {
-    background-color: #Bbd086;
+    background-color: #7caa46;
     color: "black";
 }
 
 .bg-2 {
-    background-color: ##AAFF00; /* lime green */
+    background-color: #7caa46; /* lime green */
     color: #Bbd086;
 }
 
@@ -59,7 +62,7 @@ a {
 }
 
 .bg-4 {
-    background-color: #454B1B; /* army green */
+    background-color: #000; /* army green */
     color: #0D2818;
 }
 
@@ -86,4 +89,8 @@ a {
     border-color: #FFFF;
     border-style: solid;
     border-width: 5px;
+}
+.fork #fork{
+    height: 1px  !important;
+    width: 1px  !important;
 }
